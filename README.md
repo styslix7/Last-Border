@@ -4,9 +4,9 @@
 
 </div>
 
-# Stellar Deception
+# Last Border
 
-A solo, massive, interactive visual novel game, focusing on story. Will be made in either Unity or Godot, will offer 20-30 hours of playtime.
+A solo, heavily interactive visual novel game with a deep action-drama story. Will be made in Twine, using SugarCube with HTML, CSS and JavaScript. Will offer 2-3 hours of playtime depending on choices.
 
 # Description
 
@@ -20,12 +20,8 @@ This project is licensed under a proprietary license. All rights are reserved by
 
 # Current Version
 
-* 0.2 | 2024-04-12
-    * Another short interactive version of the story was written, focusing one of the planets. It was not complete and the project has been stopped indefinitely.
-    * Was named Prototype 2.
-    * Written with HTML, CSS and JavaScript with better UI/UX.
-    * Main menu music by Kristopher Rioux.
-    * [Play](https://styslix.itch.io/stellar-deception-prototype-2)
+* 0.2 | 2024-03-08
+    * I started writing this again from SCRATCH after being long gone focusing on college.
 
 # Version History
 
