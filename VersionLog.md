@@ -6,30 +6,17 @@
 
 # Current Version
 
-* 0.2 | 2024-04-12
-    * Another short interactive version of the story was written, focusing one of the planets. It was not complete and the project has been stopped indefinitely.
-    * Was named Prototype 2.
-    * Written with HTML, CSS and JavaScript with better UI/UX.
-    * Main menu music by Kristopher Rioux. Programming help by Kacper Jeznach.
-    * [Play](https://styslix.itch.io/stellar-deception-prototype-2)
+* 0.2 | 2024-03-08
+    * I started writing this again from SCRATCH after being long gone focusing on college.
   
 # Version History
 
-* 0.2 | 2024-04-12
-    * Another short interactive version of the story was written, focusing one of the planets. It was not complete and the project has been stopped indefinitely.
-    * Was named Prototype 2.
-    * Written with HTML, CSS and JavaScript with better UI/UX.
-    * Main menu music by Kristopher Rioux.
-    * [Play](https://styslix.itch.io/stellar-deception-prototype-2)
-* 0.1 | 2024-01-30
-    * A short interactive version of the story.
-    * Was named Prototype 1.
-    * Written with HTML and CSS.
-    * [Play](https://styslix.itch.io/stellar-deception-prototype)
-* 0.0.3 | 2023-11-27
-    * Another similar short story was written from a characters perspective this time.
-* 0.0.2 | 2023-11-13
-    * A short story was written in Stellar Deception universe.
-* 0.0.1 | late 2023
-    * The idea of "Stellar Deception was found".
-    * Some basic summaries were written but not published.
+* 0.2 | 2024-03-08
+    * I started writing this again from SCRATCH after being long gone focusing on college.
+    * Nothing was published publicly.
+* 0.1 | Late 2024
+    * Scripted a few chapters but it got messy because I was trying to script this at the same time I had college projects.
+    * Nothing was published publicly.
+* 0.0.1 | Mid 2024
+    * Found the "Last Border" idea and wrote a lot of private worldbuilding, flowcharts, characters and the story.
+    * Nothing was published publicly.
