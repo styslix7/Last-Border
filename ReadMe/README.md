@@ -16,7 +16,7 @@ A solo, heavily interactive visual novel game with a deep action-drama story. Wi
 
 This project is licensed under a proprietary license. All rights are reserved by the author, and no part of the work may be copied, modified, or distributed without prior written consent.
 
-[For more info about License/Copyright](https://github.com/styslix7/Stellar-Deception/blob/main/ReadMe/License.md).
+[For more info about License/Copyright](https://github.com/styslix7/Last-Border/blob/main/ReadMe/License.md).
 
 # Current Version
 
@@ -25,7 +25,7 @@ This project is licensed under a proprietary license. All rights are reserved by
 
 # Version History
 
-All of the version history is [here](https://github.com/styslix7/Stellar-Deception/blob/main/ReadMe/VersionLog.md).
+All of the version history is [here](https://github.com/styslix7/Last-Border/blob/main/ReadMe/VersionLog.md).
 
 # Installation
 
