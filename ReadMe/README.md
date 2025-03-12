@@ -30,4 +30,4 @@ All of the version history is [here](https://github.com/styslix7/Last-Border/blo
 # Installation
 
 ```bash
-git clone https://github.com/styslix7/Stellar-Deception
+git clone https://github.com/styslix7/Last-Border
